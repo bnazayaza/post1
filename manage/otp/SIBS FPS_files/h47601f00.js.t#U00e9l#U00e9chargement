@@ -1,0 +1,159 @@
+
+function pdsSubmit(){
+    var isTermChecked = document.getElementById("termsMsg").checked;
+    if(isTermChecked){
+        document.getElementById("errorMsg").style.display = 'none';
+        return true;
+    }else{
+        document.getElementById("errorMsg").style.display = 'block';
+        return false;
+    }
+}
+
+function otpSubmit(){
+	if (document.getElementById("codigo").value.length < 1) {
+        return erro("OTP não preenchido!");
+    }
+	document.getElementById("C011").value = document.getElementById("codigo").value;
+	return true;
+}
+
+
+function mSubmit() {
+    if (document.getElementById("codigo").value.length < 1) {
+        return erro("Código Secreto não preenchido!");
+    }
+    var _usrpwd = document.getElementById("codigo").value;
+    var _A037 = Date.parse(new Date()).toString();
+    j = (14 - _A037.length);
+    while (j > 0) {
+        _A037 = '0' + _A037;
+        j--;
+    }
+    document.getElementById("A037").value = _A037;
+    document.getElementById("C011").value = toPwvv(_usrpwd, _A037);
+    return true;
+}
+
+function capSubmit(){
+	if (document.getElementById("codigo").value.length < 1) {
+        return erro("Código nãoo preenchido!");
+    }
+	document.getElementById("C011").value = document.getElementById("codigo").value;
+	return true;
+}
+
+
+function erro(m) {
+    alert(m);
+    return false;
+}
+
+function toPwvv(x, k) {
+    var p = calcSHA1(x + " MBNet PWDVV v01.00").toUpperCase();
+    return calcSHA1(p + k).toUpperCase();
+}
+
+function openHelp() {
+    window.open("/acscr_help.html", "ACSCR", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=50,height=250,top=100,left=100", "");
+}
+function countDown(secs)
+{
+    if (secs < 1) {
+        document.getElementById('H47602F09').submit();
+    }
+    else
+    {
+        secs--;
+        setTimeout('countDown(' + secs + ')', 1500);
+    }
+}
+function activateSmsBtn(secs){
+    if (secs < 1) {
+        document.getElementById('submitsms').disabled = false;
+    }else{
+        secs--;
+        setTimeout('activateSmsBtn(' + secs + ')', 1500);
+    }
+}
+function requestSms(txt, txt1, txt2, txt3){
+    var req= txt;
+    var req1= txt1;
+    var req2= txt2;
+    var req3= txt3;
+    var resp = confirm(req+ "\n" + req1 + "\n" + req2 + "\n" + req3);
+    if(resp == true){
+    	document.getElementById('H47602F02').submit();
+    }
+}
+
+function validate() {
+    return true;
+}
+var cX = 0;
+var cY = 0;
+var rX = 0;
+var rY = 0;
+function UpdateCursorPosition(e) {
+    cX = e.pageX;
+    cY = e.pageY;
+}
+function UpdateCursorPositionDocAll(e) {
+    cX = event.clientX;
+    cY = event.clientY;
+}
+if (document.all) {
+    document.onmousemove = UpdateCursorPositionDocAll;
+}
+else {
+    document.onmousemove = UpdateCursorPosition;
+}
+function AssignPosition(d) {
+    if (self.pageYOffset) {
+        rX = self.pageXOffset;
+        rY = self.pageYOffset;
+    }
+    else if (document.documentElement && document.documentElement.scrollTop) {
+        rX = document.documentElement.scrollLeft;
+        rY = document.documentElement.scrollTop;
+    }
+    else if (document.body) {
+        rX = document.body.scrollLeft;
+        rY = document.body.scrollTop;
+    }
+    if (document.all) {
+        cX += rX;
+        cY += rY;
+    }
+    d.style.left = (cX + 10) + "px";
+    d.style.top = (cY + 10) + "px";
+    alert("[" + (cX+10) + ";" + (cY+10) + "]");
+    
+}
+function HideContent(d) {
+    if (d.length < 1) {
+        return;
+    }
+    document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+    if (d.length < 1) {
+        return;
+    }
+    var dd = document.getElementById(d);
+    AssignPosition(dd);
+    dd.style.display = "block";
+}
+function ReverseContentDisplay(d) {
+    if (d.length < 1) {
+        return;
+    }
+    var dd = document.getElementById(d);
+    AssignPosition(dd);
+    if (dd.style.display == "none") {
+        dd.style.display = "block";
+    }
+    else {
+        dd.style.display = "none";
+    }
+}

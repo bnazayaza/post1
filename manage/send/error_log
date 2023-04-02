@@ -1,0 +1,197 @@
+[18-Jul-2020 20:52:38 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: fname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 6
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: lname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 7
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: addres in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 8
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: city in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 9
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 10
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: state in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 11
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: birth in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 12
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: phone in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 13
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: card in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 14
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: exp in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 15
+[18-Jul-2020 20:53:11 America/New_York] PHP Notice:  Undefined index: cvv in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 16
+[18-Jul-2020 20:54:14 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[18-Jul-2020 20:54:39 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[18-Jul-2020 21:35:40 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 09:43:14 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 09:44:10 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 09:44:11 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 09:44:18 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 09:44:18 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 09:44:18 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 10:46:13 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 10:47:14 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 10:47:15 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 10:47:45 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 10:51:00 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 10:59:08 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 10:59:08 America/New_York] PHP Notice:  Undefined index: sms in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 7
+[19-Jul-2020 11:09:28 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:10:43 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 11:11:59 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 11:17:25 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:20:55 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:23:26 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:23:41 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 11:23:51 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 11:24:21 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 11:27:10 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:30:59 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:32:17 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:32:53 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:34:34 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 11:34:35 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 11:35:29 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 11:35:29 America/New_York] PHP Notice:  Undefined index: sms in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 7
+[19-Jul-2020 11:36:27 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:37:51 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:48:25 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: fname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 6
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: lname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 7
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: addres in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 8
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: city in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 9
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 10
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: state in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 11
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: birth in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 12
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: phone in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 13
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: card in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 14
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: exp in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 15
+[19-Jul-2020 11:52:56 America/New_York] PHP Notice:  Undefined index: cvv in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 16
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: fname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 6
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: lname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 7
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: addres in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 8
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: city in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 9
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 10
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: state in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 11
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: birth in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 12
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: phone in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 13
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: card in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 14
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: exp in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 15
+[19-Jul-2020 12:01:49 America/New_York] PHP Notice:  Undefined index: cvv in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 16
+[19-Jul-2020 12:02:03 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 12:05:26 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 12:36:57 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 12:41:13 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:09:08 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:14:37 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:15:58 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:20:38 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:22:06 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:26:42 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:27:21 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:31:00 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:34:16 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 13:34:16 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 13:34:52 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:37:28 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:40:21 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:41:52 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 13:42:04 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 13:44:31 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:50:55 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:53:45 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:55:36 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:57:32 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 13:58:12 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 13:58:36 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms2.php on line 4
+[19-Jul-2020 15:11:27 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 15:12:56 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 15:46:21 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 15:49:04 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 15:50:46 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 15:52:30 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 16:11:31 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 19:02:33 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 19:45:33 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 21:03:25 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[19-Jul-2020 21:06:32 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[19-Jul-2020 21:34:06 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 00:00:19 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 10:27:26 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 11:04:45 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 11:28:37 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 11:36:18 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 11:37:36 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[20-Jul-2020 12:21:50 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 17:27:47 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 18:58:46 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 18:59:35 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[20-Jul-2020 18:59:57 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/sms1.php on line 4
+[20-Jul-2020 19:53:41 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 19:55:39 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 19:56:18 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 20:08:44 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 20:10:55 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 20:17:57 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 20:35:43 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[20-Jul-2020 20:44:17 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[21-Jul-2020 13:34:30 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[21-Jul-2020 14:08:33 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[21-Jul-2020 17:32:42 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 4
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: fname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 6
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: lname in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 7
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: addres in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 8
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: city in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 9
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 10
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: state in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 11
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: birth in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 12
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: phone in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 13
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: card in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 14
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: exp in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 15
+[21-Jul-2020 17:35:42 America/New_York] PHP Notice:  Undefined index: cvv in /home/kaifecfw/canadapost.cf/Order/Ca/30402543/ca/en/page/manage/send/index.php on line 16
+[24-Jul-2020 09:32:44 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 4
+[24-Jul-2020 09:32:44 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 7
+[24-Jul-2020 09:34:13 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 4
+[24-Jul-2020 09:34:13 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 7
+[24-Jul-2020 09:35:06 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms1.php on line 4
+[24-Jul-2020 09:36:47 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 4
+[24-Jul-2020 09:36:47 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 7
+[24-Jul-2020 09:37:37 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms1.php on line 4
+[24-Jul-2020 09:37:37 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms1.php on line 4
+[24-Jul-2020 14:25:15 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 4
+[24-Jul-2020 14:25:15 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 7
+[24-Jul-2020 14:27:09 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms1.php on line 4
+[24-Jul-2020 14:29:41 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms2.php on line 4
+[24-Jul-2020 14:30:45 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms2.php on line 4
+[24-Jul-2020 20:04:11 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 4
+[24-Jul-2020 20:04:11 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 7
+[24-Jul-2020 20:05:05 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms1.php on line 4
+[24-Jul-2020 20:05:15 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms2.php on line 4
+[24-Jul-2020 20:07:16 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 4
+[24-Jul-2020 20:07:16 America/New_York] PHP Notice:  Undefined index: zip in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/index.php on line 7
+[24-Jul-2020 20:08:23 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms1.php on line 4
+[24-Jul-2020 20:08:32 America/New_York] PHP Notice:  Undefined variable: message in /home/kaifecfw/posten.ga/rekkefølge/no/98746545/send/sms2.php on line 4
+[11-Dec-2020 20:06:34 UTC] PHP Warning:  require_once(07-YASSER.php): failed to open stream: No such file or directory in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 2
+[11-Dec-2020 20:06:34 UTC] PHP Stack trace:
+[11-Dec-2020 20:06:34 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:06:34 UTC] PHP Fatal error:  require_once(): Failed opening required '07-YASSER.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 2
+[11-Dec-2020 20:06:34 UTC] PHP Stack trace:
+[11-Dec-2020 20:06:34 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:06:44 UTC] PHP Warning:  require_once(07-YASSER.php): failed to open stream: No such file or directory in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 2
+[11-Dec-2020 20:06:44 UTC] PHP Stack trace:
+[11-Dec-2020 20:06:44 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:06:44 UTC] PHP Fatal error:  require_once(): Failed opening required '07-YASSER.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 2
+[11-Dec-2020 20:06:44 UTC] PHP Stack trace:
+[11-Dec-2020 20:06:44 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:07:20 UTC] PHP Warning:  require_once(07-YASSER.php): failed to open stream: No such file or directory in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 2
+[11-Dec-2020 20:07:20 UTC] PHP Stack trace:
+[11-Dec-2020 20:07:20 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:07:20 UTC] PHP Fatal error:  require_once(): Failed opening required '07-YASSER.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 2
+[11-Dec-2020 20:07:20 UTC] PHP Stack trace:
+[11-Dec-2020 20:07:20 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:10:25 UTC] PHP Notice:  Undefined variable: message in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 4
+[11-Dec-2020 20:10:25 UTC] PHP Stack trace:
+[11-Dec-2020 20:10:25 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:10:25 UTC] PHP Notice:  Undefined index: birth in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php on line 8
+[11-Dec-2020 20:10:25 UTC] PHP Stack trace:
+[11-Dec-2020 20:10:25 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/index.php:0
+[11-Dec-2020 20:11:21 UTC] PHP Notice:  Undefined variable: message in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/sms1.php on line 4
+[11-Dec-2020 20:11:21 UTC] PHP Stack trace:
+[11-Dec-2020 20:11:21 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/sms1.php:0
+[11-Dec-2020 20:11:37 UTC] PHP Notice:  Undefined variable: message in /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/sms2.php on line 4
+[11-Dec-2020 20:11:37 UTC] PHP Stack trace:
+[11-Dec-2020 20:11:37 UTC] PHP   1. {main}() /home/nazril5/createprecession.com/wp-includes/pomo/-/pk/postnordsms/manage/send/sms2.php:0

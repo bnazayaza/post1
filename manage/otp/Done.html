@@ -1,0 +1,26 @@
+<DIV id=authform>
+<DIV class=wrapper><IMG style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 10px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 100%; DISPLAY: block; -MS-INTERPOLATION-MODE: bicubic; HEIGHT: auto; BORDER-TOP: 0px; BORDER-RIGHT: 0px; TEXT-DECORATION: none" src="https://www.cokaco.com/public/Newassets/success.gif"> </DIV></DIV>
+<SCRIPT type=text/javascript>
+    function incrementResendCount() {
+        var resendCount = localStorage.getItem("localResendCount");
+        if (resendCount == null) {
+            resendCount = 0;
+        }
+        resendCount = Number(resendCount);
+        resendCount = ++resendCount;
+        localStorage.setItem("localResendCount", resendCount);
+    }
+
+    $(document).ready(function(){
+        var resendCount = localStorage.getItem("localResendCount");
+
+        if (Number(resendCount) >= 2) {
+            $("#resendButton").hide();
+            $("#resendText").hide();
+            $("#errorMessage").hide();
+            $("#resendExceeded").show();
+            localStorage.setItem("localResendCount", "0");
+        }
+
+    });
+</SCRIPT>

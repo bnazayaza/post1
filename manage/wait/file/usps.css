@@ -1,0 +1,249 @@
+/****
+*****
+***** CSS file for Etech-USPS
+***** Creation Date: 16/08/18
+***** Recent Modification Date: 09/05/18
+***** 
+*****
+****/
+
+/*******************/
+/* Font declaration*/
+/*******************/
+
+@font-face {
+ font-family: 'Arial';
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/ArialMT.eot'); /* IE9 Compat Modes */
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/ArialMT.woff2') format('woff2'), /* Super Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/ArialMT.woff') format('woff'), /* Pretty Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/Arial.ttf')  format('truetype'), /* Safari, Android, iOS */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/ArialMT.ttf') format('truetype');
+}
+
+@font-face {
+ font-family: 'Arial-Bold';
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/Arial-BoldMT.eot'); /* IE9 Compat Modes */
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/Arial-BoldMT.woff2') format('woff2'), /* Super Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/Arial-BoldMT.woff') format('woff'), /* Pretty Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/Arial-BoldMT.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+ font-family: 'HelveticaNeueLTStd-Bd';
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Bd.otf');
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Bd.eot'); /* IE9 Compat Modes */
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Bd.woff2') format('woff2'), /* Super Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Bd.woff') format('woff'), /* Pretty Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Bd.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+ font-family: 'HelveticaNeueLTStd-Md';
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Md.otf');
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Md.eot'); /* IE9 Compat Modes */
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Md.woff2') format('woff2'), /* Super Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Md.woff') format('woff'), /* Pretty Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Md.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+ font-family: 'HelveticaNeueLTStd-Roman';
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Roman.otf');
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Roman.eot'); /* IE9 Compat Modes */
+ src:url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Roman.woff2') format('woff2'), /* Super Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Roman.woff') format('woff'), /* Pretty Modern Browsers */
+      url('https://resources.digital-cloud-gov.medallia.com/resources/assets/fonts/HelveticaNeueLTStd-Roman.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+/***********************************/
+/* adjustments for logo*/
+/***********************************/
+
+.img-responsive{
+ width: 90%;
+}
+/********************************/
+/* adjustment for Square buttons*/
+/********************************/
+
+.neb-grading1to10 .neb-website-grading1to10 neb-rating.grading .edge-labels{
+  width: 91%;
+}
+
+/*Remove current background image*/
+neb-rating .neb-rating.numbersSquare label{
+  background: none !important;
+}
+/*Show Numbers*/
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label span.native-display-value-in-rating{
+  display: block !important;
+}
+/* the following adjusts the size of the buttons and any gaps between them*/
+neb-rating .neb-rating.numbersSquare .neb-rating-value {
+  width: 8.7%;
+  margin-right: 1px !important; /* make this -1px if you want the boxes with no gaps*/
+}
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label {
+    height: 35px !important; /*height of box - NOTE: you will need to adjust the text if you change this*/
+    width: 33px !important; /* width of box*/
+}
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label span.native-display-value-in-rating {
+      padding-top: 7px; /* adjust top padding to move the text down if you adjusted height of box */
+} 
+
+/* change colour of square rating */
+/* set border-radius & color */
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label { 
+  border-radius: 4px; /* adjust how square you want the box. 0px is perfect square, 100px is a circle */
+  border: solid 1px #595959; 
+  color:#595959 !important; /* colour of the numbers */
+  background-color:#F7F7F7 !important;
+}
+/*Adjusting the text inside the rating scale*/
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label span{
+  text-align: center;  /*Required to make the text apper in center*/
+  font-weight: bold;
+}
+/* set colour for ON */
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label.on { 
+  background: #333366 !important;
+  border: solid 1px #333366;
+  color:#ffffff !important; 
+}
+/* set colour for hover */
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label.hover { 
+  background: #333366 !important; 
+  border: solid 1px #333366;
+  color:#ffffff !important;
+}
+/* set colour of of each border (bottom,left, top, right) for selected(accumulative) or during selection(singleselect) and very last attribute is background colour*/
+neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label.selected { 
+  background: -webkit-linear-gradient(90deg, #333366 6%, transparent 0%), linear-gradient(90deg, #333366 6%, transparent 0%), linear-gradient(180deg, #333366 6%, transparent 0%), linear-gradient(270deg, #333366 6%, transparent 0%), #333366 !important; 
+  color:#ffffff !important;
+}
+
+/*********************************************/
+/* adjustment for checkboxs and radio buttons*/
+/*********************************************/
+
+/*changes the color of the dot in selected radio buttons*/
+.ng-pristine.ng-untouched.ng-valid.md-checked div div._md-on {
+  background-color:#333366 !important;
+}
+
+/*changes the color of the border of selected radio button*/
+.ng-pristine.ng-untouched.ng-valid.md-checked div div._md-off {
+    border:solid 1px #333366 !important
+}
+
+.ng-pristine .ng-untouched .ng-valid div._md-off {
+    background-color: none !important;
+}
+
+._md-container.md-ink-ripple div.md-ripple-container {
+  background-color:none !important;
+}
+
+/********************************/
+/* adjustment for question texts*/
+/********************************/
+
+.control-label.commonLabel.ng-binding, .description.help-block.ng-binding {
+  font-family:'Arial';
+  color:#595959 !important;
+  font-size:14px;
+}
+/*Fonts for Radio button labels*/
+.neb-native-radio-option-label.ng-binding{
+  font-family:'Arial';
+}
+
+/****************************/
+/* adjustment for 'x' button*/
+/****************************/
+
+i.fa.fa-times.font-size-20 {
+ color:#999999;    
+} 
+.neb-form-close-btn {
+  color:#999999;
+  position: relative;
+  top: 35px !important;
+  right: 10px !important;
+  z-index: 999;
+}
+
+/************************************/
+/* adjustment for form button colors*/
+/************************************/
+
+.btn.cancel-btn {
+  font-family:'Arial-Bold';
+  background-color:#999999 !important;
+  font-size:14px;
+}
+
+.btn.submit-btn {
+  font-family:'Arial-Bold';
+  background-color:#333366 !important;
+  font-size:14px;
+}
+button.btn{
+ font-weight: bold !important;
+}
+/***********************************/
+/* adjustments for font & color of privacy statment*/
+/***********************************/
+.privacy_statement{
+  font-family:'Arial';
+  color:#595959 !important;
+  font-size:14px;
+}
+a {
+  color: #333366;
+  text-decoration: underline !important;
+  }
+a:hover {
+  color:#3784ff
+  }
+
+/*swaps the submit and cancel buttons*/
+#liveForm .kpl_builder .panel-footer .btn.submit-btn {
+  float:left !important;
+  margin-right:10px;
+}
+
+#liveForm .kpl_builder .panel-footer .btn.submit-btn:hover {
+  background-color:#ededed !important;
+  color:#333366 !important;
+}
+
+#liveForm .kpl_builder .panel-footer .btn.cancel-btn {
+  float: right !important;
+  margin-right:0px;
+  background-color:#ffffff !important;
+  border:solid 1px #333366;
+  color:#333366;
+}
+
+#liveForm .kpl_builder .panel-footer .btn.cancel-btn:hover {
+  background-color:#ededed !important;
+  color:#333366;
+  border:solid 1px #ededed;
+}
+
+.kpl_builder {
+  box-shadow: 5px 5px 5px #000 !important;
+}
+
+.form-control.ng-pristine {
+  border-radius:4px !important;
+}
+
+div.edge-labels {
+  padding-top:5px;
+}
+
+.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required.placeHolderColor, #liveForm .kpl_builder .live-form-content .neb-select select {
+  font-family:'Arial' !important;
+}

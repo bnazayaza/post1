@@ -1,0 +1,21 @@
+.common-screen-header .navbar-nav .nav-link {
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+}
+.f {
+                    background-color: #0097b9
+                    border-radius: 5px;
+                    margin-top: 40px;
+                    border-top: 4px solid #0097b9
+                }
+                .envelope{
+                    width: 80px;
+                }
+                .tn{
+                    font-size: 30px;
+                    margin-bottom: -20px;
+                }
+                .sp{
+                    color: #0097b9
+                }
